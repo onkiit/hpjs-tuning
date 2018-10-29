@@ -1,5 +1,5 @@
 {
-  "name": "Hyperparameters tuning with HPJS and react",
+  "name": "hpjs-with-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
