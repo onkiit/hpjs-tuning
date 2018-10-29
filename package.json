@@ -1,8 +1,10 @@
 {
-  "name": "my-app",
+  "name": "Hyperparameters tuning with HPJS and react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@tensorflow/tfjs": "^0.13.3",
+    "hyperparameters": "^0.25.5",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "2.0.5"
